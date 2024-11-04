@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="Accounting">
+  <g fill="#000000" class="color000000 svgShape">
+    <path fill="#dbdcff" d="M49,18.45V55a5,5,0,0,1-5,5H10a5,5,0,0,1-5-5V9a5,5,0,0,1,5-5H36.13a5.051,5.051,0,0,1,3.84,1.8l7.87,9.45A4.993,4.993,0,0,1,48.98,18C48.99,18.15,49,18.3,49,18.45Z" class="colordbedff svgShape"></path>
+    <path fill="#595bd4" d="M48.98,18H40a3.009,3.009,0,0,1-3-3V4.08A5.029,5.029,0,0,1,39.97,5.8l7.87,9.45A4.993,4.993,0,0,1,48.98,18Z" class="color8479c2 svgShape"></path>
+    <path fill="#167ffc" d="M31 15H23a1 1 0 010-2h8a1 1 0 010 2zM35 20H23a1 1 0 010-2H35a1 1 0 010 2zM35 25H23a1 1 0 010-2H35a1 1 0 010 2z" class="color60b9fe svgShape"></path>
+    <path fill="#595bd4" d="M16,19a3.5,3.5,0,1,1,3.5-3.5,1,1,0,0,1-2,0A1.5,1.5,0,1,0,16,17a1,1,0,0,1,0,2Z" class="color8479c2 svgShape"></path>
+    <path fill="#595bd4" d="M16 24a3.5 3.5 0 01-3.5-3.5 1 1 0 012 0A1.5 1.5 0 1016 19a1 1 0 010-2 3.5 3.5 0 010 7zM16 14a1 1 0 01-1-1V11a1 1 0 012 0v2A1 1 0 0116 14z" class="color8479c2 svgShape"></path>
+    <path fill="#595bd4" d="M16,26a1,1,0,0,1-1-1V23a1,1,0,0,1,2,0v2A1,1,0,0,1,16,26Z" class="color8479c2 svgShape"></path>
+    <path fill="#8b8dff" d="M41 32H21a1 1 0 010-2H41a1 1 0 010 2zM17 32H13a1 1 0 010-2h4a1 1 0 010 2zM26 38H13a1 1 0 010-2H26a1 1 0 010 2zM41 38H30a1 1 0 010-2H41a1 1 0 010 2zM28 44H13a1 1 0 010-2H28a1 1 0 010 2z" class="color8bcaff svgShape"></path>
+    <path fill="#b5b6ff" d="M41,44H32a1,1,0,0,1,0-2h9a1,1,0,0,1,0,2Z" class="colorb5dcff svgShape"></path>
+    <path fill="#8b8dff" d="M24 50H13a1 1 0 010-2H24a1 1 0 010 2zM41 50H28a1 1 0 010-2H41a1 1 0 010 2z" class="color8bcaff svgShape"></path>
+    <circle cx="45" cy="46" r="14" fill="#f2b371" class="colorf27182 svgShape"></circle>
+    <circle cx="45" cy="46" r="10" fill="#fe9526" class="colorffe02f svgShape"></circle>
+    <path fill="#53d86a" d="M41.465,50.535a1,1,0,0,1-.707-1.707l7.07-7.07a1,1,0,0,1,1.414,1.414l-7.07,7.07A.993.993,0,0,1,41.465,50.535Z" class="colorffffff svgShape"></path>
+    <circle cx="42" cy="43" r="2" fill="#53d86a" class="colorffffff svgShape"></circle>
+    <circle cx="47.932" cy="49.018" r="2.018" fill="#53d86a" class="colorffffff svgShape"></circle>
+    <path fill="#232323" d="M44,60H10a5.006,5.006,0,0,1-5-5V9a5.006,5.006,0,0,1,5-5H36.13a4.989,4.989,0,0,1,3.838,1.8l7.871,9.45A5.013,5.013,0,0,1,49,18.45v10.9a1,1,0,0,1-2,0V18.45a3.013,3.013,0,0,0-.7-1.921L38.432,7.08A3,3,0,0,0,36.13,6H10A3,3,0,0,0,7,9V55a3,3,0,0,0,3,3H44a1.02,1.02,0,0,0,.156,0,1.015,1.015,0,0,1,.174-.016.736.736,0,0,0,.146-.02,1,1,0,0,1,.488,1.939,3.138,3.138,0,0,1-.5.078l-.046,0A3.181,3.181,0,0,1,44,60Z" class="color232323 svgShape"></path>
+    <path fill="#232323" d="M47.72 18H40a3 3 0 01-3-3V5.47a1 1 0 112 0V15a1 1 0 001 1h7.72a1 1 0 010 2zM45 60A14 14 0 1159 46 14.015 14.015 0 0145 60zm0-26A12 12 0 1057 46 12.013 12.013 0 0045 34z" class="color232323 svgShape"></path>
+    <path fill="#232323" d="M45,56.5a10.5,10.5,0,1,1,5.835-1.769,1,1,0,1,1-1.113-1.662A8.5,8.5,0,1,0,45,54.5a1,1,0,0,1,0,2Z" class="color232323 svgShape"></path>
+  </g>
+</svg>
